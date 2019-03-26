@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Capex2017" id="Capex2017">
+	<SimpleField name="Materials" type="string"></SimpleField>
+	<SimpleField name="Width" type="string"></SimpleField>
+	<SimpleField name="Date" type="string"></SimpleField>
+</Schema>
+<Folder><name>Capex2017</name>
+  <Placemark>
+	<Style><LineStyle><color>FF232323</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Capex2017">
+		<SimpleData name="Materials"></SimpleData>
+		<SimpleData name="Width"></SimpleData>
+		<SimpleData name="Date"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>145.552485178753,-42.0809857955181 145.552455670002,-42.0809862338 145.552013215334,-42.0813890839896 145.551787820271,-42.0815982462223 145.551804878441,-42.0816083683927 145.552030150575,-42.0813992946379 145.552485178753,-42.0809857955181</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF232323</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Capex2017">
+		<SimpleData name="Materials"></SimpleData>
+		<SimpleData name="Width"></SimpleData>
+		<SimpleData name="Date"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>145.551685669084,-42.0817095348489 145.551668854682,-42.0816993256755 145.551181840275,-42.0821472717352 145.550872042992,-42.08243651255 145.550889101234,-42.0824466348564 145.551198777627,-42.0821573924695 145.551685669084,-42.0817095348489</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF232323</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Capex2017">
+		<SimpleData name="Materials"></SimpleData>
+		<SimpleData name="Width"></SimpleData>
+		<SimpleData name="Date"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>145.550737537749,-42.0825774725139 145.550719858778,-42.0825680628437 145.550371039219,-42.0829302102115 145.550388597371,-42.0829396184086 145.550737537749,-42.0825774725139</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF232323</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Capex2017">
+		<SimpleData name="Materials"></SimpleData>
+		<SimpleData name="Width"></SimpleData>
+		<SimpleData name="Date"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>145.550323121802,-42.0830169653124 145.550304822044,-42.0830082682343 145.550107835111,-42.0832383202298 145.550126255771,-42.0832470188669 145.550323121802,-42.0830169653124</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
